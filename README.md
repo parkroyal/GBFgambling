@@ -4,5 +4,7 @@
 步驟
 1.http://tw.vrbrothers.com/qmacro/ 
 下載按鍵精靈2014
+
 2.安裝
+
 3.
