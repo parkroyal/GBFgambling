@@ -21,6 +21,7 @@
 http://imgur.com/NUdobdI
 
 6.複製文字 ，以原始檔案貼上
+https://github.com/parkroyal/GBFgambling/blob/master/%E5%9F%B7%E8%A1%8C%E4%BB%A3%E7%A2%BC
 
 7.點擊腳本屬性，設定迴圈次數(設定重複幾次動作)
 
